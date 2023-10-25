@@ -28,7 +28,8 @@ namespace GeekShopping.ProductAPI.Controllers
         {
             var product = await _repository.FindById(id);
 
-            if (product == null)
+            //if (product == null)
+            if (product.Id <= 0)
             {
                 return NotFound();
             }

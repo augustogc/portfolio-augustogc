@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace GeekShopping.ProductAPI.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/v1/[controller]")]
     [ApiController]
     public class ProductController : ControllerBase
     {
@@ -39,11 +39,9 @@ namespace GeekShopping.ProductAPI.Controllers
             }
         }
 
-        [HttpPost("id")]
-        public async Task<ActionResult<ProductVO>> Create(ProductVO vo)
+        [HttpPost]
+        public async Task<ActionResult<ProductVO>> Create([FromBody] ProductVO vo)
         {
-            
-
             if (vo == null)
             {
                 return BadRequest();
@@ -56,11 +54,9 @@ namespace GeekShopping.ProductAPI.Controllers
             }
         }
 
-        [HttpPut("id")]
-        public async Task<ActionResult<ProductVO>> Update(ProductVO vo)
+        [HttpPut]
+        public async Task<ActionResult<ProductVO>> Update([FromBody] ProductVO vo)
         {
-
-
             if (vo == null)
             {
                 return BadRequest();

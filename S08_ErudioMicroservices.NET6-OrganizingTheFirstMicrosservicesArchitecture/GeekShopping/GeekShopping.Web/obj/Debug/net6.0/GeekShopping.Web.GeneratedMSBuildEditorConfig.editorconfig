@@ -11,7 +11,7 @@ build_property.RootNamespace = GeekShopping.Web
 build_property.ProjectDir = C:\Projetos\CURSOS\Udemy\DotNet\portfolio-augustogc\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShopping\GeekShopping.Web\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
-build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = true
 build_property.MSBuildProjectDirectory = C:\Projetos\CURSOS\Udemy\DotNet\portfolio-augustogc\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShopping\GeekShopping.Web
 build_property._RazorSourceGeneratorDebug = 
 
@@ -25,6 +25,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Projetos/CURSOS/Udemy/DotNet/portfolio-augustogc/S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture/GeekShopping/GeekShopping.Web/Views/Product/ProductCreate.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0Q3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Projetos/CURSOS/Udemy/DotNet/portfolio-augustogc/S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture/GeekShopping/GeekShopping.Web/Views/Product/ProductDelete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxQcm9kdWN0RGVsZXRlLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Projetos/CURSOS/Udemy/DotNet/portfolio-augustogc/S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture/GeekShopping/GeekShopping.Web/Views/Product/ProductIndex.cshtml]

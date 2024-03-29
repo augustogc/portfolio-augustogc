@@ -44,3 +44,4 @@ C:\Projetos\CURSOS\Udemy\DotNet\portfolio-augustogc\S08_ErudioMicroservices.NET6
 C:\Projetos\CURSOS\Udemy\DotNet\portfolio-augustogc\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShopping\GeekShopping.IdentityServer\obj\Debug\net6.0\ref\GeekShopping.IdentityServer.dll
 C:\Projetos\CURSOS\Udemy\DotNet\portfolio-augustogc\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Humanizer.dll
 C:\Projetos\CURSOS\Udemy\DotNet\portfolio-augustogc\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Projetos\CURSOS\Udemy\DotNet\portfolio-augustogc\S08_ErudioMicroservices.NET6-OrganizingTheFirstMicrosservicesArchitecture\GeekShopping\GeekShopping.IdentityServer\bin\Debug\net6.0\keys\is-signing-key-64F22809D635DEE99BC0D09C3ED44CF4.json
